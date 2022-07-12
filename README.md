@@ -1,6 +1,6 @@
 ## Css 3. ödev
 
-### Google Ana sayfa clonu
+### Google Ana sayfa klonu
 
 ---
 
