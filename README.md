@@ -1,4 +1,4 @@
-## Css 3. ödev
+## Google Home page clone
 
 ### Google Ana sayfa klonu
 
